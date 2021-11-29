@@ -6,7 +6,7 @@ export function Footer() {
           
             <div className="container">
             © {new Date().getFullYear()} Copyright Text
-            <a className="grey-text text-lighten-4 right" href="#!">Repo</a>
+            <a className="grey-text text-lighten-4 right" target="_blank" href="https://github.com/piskarev06/react-movies">Repo</a>
             </div>
           
         </footer>
