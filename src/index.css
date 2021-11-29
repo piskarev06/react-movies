@@ -31,7 +31,11 @@ code {
 }
 
 .search-btn {
-  position: absolute;
   top: 0;
   right: 0.5rem;
+  margin-bottom: 10px;
+}
+
+.filters > label:not(:last-child) {
+  margin-right: 1rem;
 }
